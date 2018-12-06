@@ -1,6 +1,4 @@
-# Developing-hypotheses
-
-#Developing hypotheses based on public databases
+# Developing hypotheses based on public databases
 
 -Shaimar González Morales
 -2018-12-6
