@@ -6,6 +6,11 @@ Shaimar González Morales
 
 # Overview
 Analyzing data from NCBI Geo database
+
 -Cleaning data in Excel
+
 -Building graphs
+
 -statistical analysis
+
+#
