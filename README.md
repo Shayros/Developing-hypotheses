@@ -1,8 +1,8 @@
 # Developing hypotheses based on public databases
 
--Shaimar González Morales
+Shaimar González Morales
 
--2018-12-6
+2018-12-6
 
 # Overview
 Analyzing data from NCBI Geo database
