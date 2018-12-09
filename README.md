@@ -37,7 +37,7 @@ Once you are familiar with the field, ask yourself what questions still are not 
 
 Analyzing data from NCBI GEO database
 
--Cleaning data in Excel
+-Cleaning data
 
 -Building graphs
 
