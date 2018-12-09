@@ -51,6 +51,12 @@ Analyzing data from NCBI GEO database
 
 -Looking at correlations with disease datasets
 
+-Cleaning data
+
+-Building graphs
+
+-Statistical analysis
+
 # Summary 
 
 Hopefully this project helped you have a better idea of how to design a research question and how to look for evidence that could support your hypothesis.
