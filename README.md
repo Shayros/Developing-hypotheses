@@ -13,10 +13,14 @@ To design a research project you first have to be familiar with the field you wa
 Questions to ask yourself while you are reading a scientific article:
 
 1.What is the big question being addressed in this paper?
+
 2.What are the major weaknesses of the paper?
+
 3.Is the data convincing (if not specify)?
+
 4.Considering the findings outlined in this paper, what new question arises that
 interests you?
+
 5.How can the methods/concept of the paper be applied to your field?
 
 Once you are famliar with the field as yourself what questions still are not answer. The following steps are design for you to test your questions and give you a little bit of insight (remember that these will be correlations and correlations doesn't imply causality). If you read the articles and still can't develop a hypothesis you can go to databases and follow some of the steps below and then go back to the literature to see if there are articles that support your idea.
