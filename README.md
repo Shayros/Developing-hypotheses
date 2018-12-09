@@ -1,9 +1,9 @@
 # Developing hypotheses based on public databases
 ---
 
-**Shaimar González Morales**
+*Shaimar González Morales**
 
-**BIOF309**
+*BIOF309**
 
 # Purpose
 
