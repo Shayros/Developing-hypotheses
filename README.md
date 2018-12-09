@@ -57,12 +57,18 @@ Hopefully this project helped you have a better idea of how to design a research
 
 # Resources: Developing a research question
 
-Writing a Good Research Question (https://cirt.gcu.edu/research/developmentresources/tutorials/question
+Writing a Good Research Question 
 
-Planning Your Scientific Journey (https://courses.ibiology.org/courses/course-v1:iBiology+iBio1+2017_2/about) 
+(https://cirt.gcu.edu/research/developmentresources/tutorials/question
+
+Planning Your Scientific Journey 
+
+(https://courses.ibiology.org/courses/course-v1:iBiology+iBio1+2017_2/about) 
 
 Developing a Research Question
+
 (https://www.esc.edu/online-writing-center/resources/research/research-paper-steps/developing-questions/)
 
 How to Write a Research Question
+
 (https://writingcenter.gmu.edu/guides/how-to-write-a-research-question)
