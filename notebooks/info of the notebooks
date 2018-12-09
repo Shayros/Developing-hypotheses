@@ -1,6 +1,6 @@
 The notebooks are created in google colabs and are divided by task. 
 
-#First task: Using datasets to support your hypothesis
+First task: Using datasets to support your hypothesis
 
 The first notebook is towards the information from NCBI Geo Ombnibus and include:
 
@@ -12,7 +12,7 @@ The first notebook is towards the information from NCBI Geo Ombnibus and include
 
 4. Analyzing data in python and producing graphs
 
-#Second task: Using web-based software to interpret data
+Second task: Using web-based software to interpret data
 
 1. What is IPA?
 
@@ -22,7 +22,7 @@ The first notebook is towards the information from NCBI Geo Ombnibus and include
 
 4. Analyzing information in python
 
-#Task three: Assessing possible implications of your hypothesis
+Task three: Assessing possible implications of your hypothesis
 
 1. Disease focus datasets
 
