@@ -45,7 +45,7 @@ Analyzing data from NCBI Geo database
 
 # Using web-based software to interprate data
 
--Looking at correlations in Igenuity Pathway Analaysis. 
+-Looking at correlations in Ingenuity Pathway Analaysis. 
 
 # Assesing possible implications to your hypothesis
 
