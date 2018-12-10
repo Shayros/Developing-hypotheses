@@ -1,16 +1,14 @@
-The notebooks are created in google colabs and are divided by task. 
+The notebooks are created in google colabs and are divided by tasks. 
 
 First task: Using datasets to support your hypothesis
 
-The first notebook is towards the information from NCBI Geo Ombnibus and include:
+The first notebook is directed towards the information from NCBI Geo Ombnibus and include:
 
 1. Dowloading the datasets
 
 2. Cleaning information on Excel
 
-3. Alternative, cleaning information on python
-
-4. Analyzing data in python and producing graphs
+3. Analyzing data in python and producing graphs
 
 Second task: Using web-based software to interpret data
 
