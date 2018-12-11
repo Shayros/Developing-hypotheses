@@ -49,7 +49,7 @@ Analyzing data from NCBI GEO database
 
 # Assessing possible implications of your hypothesis
 
--Looking at correlations with disease datasets
+-Looking at correlations with disease dataset
 
 -Cleaning data
 
