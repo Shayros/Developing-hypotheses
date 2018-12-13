@@ -1,1 +1,13 @@
-Task 1:pip install numpypip install Scipypip install matplotlibTask 2:pip install matplotlibpip install matplotlib-vennTask 3:
+Task 1:
+pip install numpy
+pip install Scipy
+pip install matplotlib
+
+Task 2:
+pip install matplotlib
+pip install matplotlib-venn
+
+Task 3:
+pip install lifelines
+pip install pandas
+
