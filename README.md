@@ -47,7 +47,7 @@ Analyzing data from NCBI GEO database
 
 Looking at correlations in Ingenuity Pathway Analysis
 
--Building venn diagrams
+-Building Venn/Euler diagrams 
 
 # Assessing possible implications of your hypothesis
 
