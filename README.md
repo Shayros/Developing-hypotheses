@@ -45,11 +45,13 @@ Analyzing data from NCBI GEO database
 
 # Using web-based software to interpret data
 
--Looking at correlations in Ingenuity Pathway Analysis
+Looking at correlations in Ingenuity Pathway Analysis
+
+-Building venn diagrams
 
 # Assessing possible implications of your hypothesis
 
--Looking at correlations with disease dataset
+Looking at correlations with disease dataset
 
 -Cleaning data
 
